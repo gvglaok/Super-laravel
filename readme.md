@@ -7,7 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## About Super Laravel
+Package 
+- "infyomlabs/laravel-generator": "5.6.x-dev",
+- "laravelcollective/html": "^5.6.0",
+- "infyomlabs/adminlte-templates": "5.6.x-dev",
+- "infyomlabs/swagger-generator": "dev-master",
+- "jlapp/swaggervel": "dev-master",
+- "doctrine/dbal
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
 
